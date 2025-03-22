@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+ <div style="text-align: center;">
+  <header>
+    <h1>DUY KHIEM</h1>
+    <td>Home || Projects || Blogs || Contact</td>
+    <h1>Web Developer</h1>
+  </header>
+  <table border="1" style="border-collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th>Điểm Nổi Bật</th>
+            <th>Các Dự Án Đã Thực Hiện</th>
+            <th>Trình Độ Học Vấn</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Resposive HTML Layout</td>
+            <td>Backend Developer [Senior] at ABC</td>
+            <td>B.Tech (computer Science) from ABC University</td>
+        </tr>
+    </tbody>
+  </table>
+    <h2>Đánh Giá Từ Đồng Nghiệp</h2>
+    <table border="11" style="border-collapse; width: 100%;">
+    <tbody>
+        <tr>
+            <td>Anh ấy xây dựng nhóm Tốt</td>
+            <td>Bạn ấy rất chăm chỉ</td>
+            <td>Là một người lãnh đạo đóng góp nhiều cho Hội Đồng</td>
+        </tr>
+    </tbody>
+ </div>
+  <footer>
+    <td>© SKIBIDI</td>
+  </footer>
+</body>
+</html>
