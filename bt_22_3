@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tan Doan - Web Developer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      width: 80%;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding: 20px 0;
+    }
+    .content {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 0;
+    }
+    .left {
+      width: 45%;
+    }
+    .right {
+      width: 45%;
+    }
+    h2 {
+      margin-bottom: 10px;
+    }
+    .project {
+      margin-bottom: 20px;
+    }
+    footer {
+      background-color: #f0f0f0;
+      padding: 20px 0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tan Doan</h1>
+    <p>Home Projects Blogs Contact</p>
+    <p>Web Developer</p>
+  </header>
+  <div class="container content">
+    <div class="left">
+      <h2>Điểm nổi bật</h2>
+      <ul>
+        <li>Responsive HTML</li>
+        <li>Ecommerce Solution</li>
+        <li>Interactive Form Design</li>
+        <li>Event Countdown Widget</li>
+        <li>Prototype Landing Pages</li>
+      </ul>
+      <h2>Các dự án đã thực hiện</h2>
+      <div class="project">
+        <h3>Backend Developer (Senior) at ABC</h3>
+        <p>Redesigned major product codes resulting in a 70% increase in range.</p>
+        <p><a href="#">View My LinkedIn Profile</a></p>
+      </div>
+      <div class="project">
+        <h3>Frontend Developer (Senior) at XYZ</h3>
+        <p>Handed major product redesigns resulting in a 40% increase in user engagement.</p>
+        <p><a href="#">View My LinkedIn Profile</a></p>
+      </div>
+      <h2>Đánh giá từ đồng nghiệp</h2>
+      <p>Tan Doan được biết đến với sự chú ý chính xác đến từng chi tiết và khả năng hướng dẫn các nhà phát triển trẻ hơn. A Long, Nhà thiết kế UI.</p>
+    </div>
+    <div class="right">
+      <h2>Trình độ học vấn</h2>
+      <p>B.Tech (Computer Science) from ABC University</p>
+      <p>Specializations:</p>
+      <ul>
+        <li>System Analysis</li>
+        <li>Advanced JavaScript Techniques</li>
+        <li>Web Accessibility Standards</li>
+        <li>Performance Optimization in Web Applications</li>
+        <li>Cloud Computing Infrastructure</li>
+        <li>Security in Web Applications</li>
+        <li>Advanced Algorithms</li>
+      </ul>
+    </div>
+  </div>
+  <footer>
+    <p>© (2025) Bản quyền thuộc về Tan Doan</p>
+  </footer>
+</body>
+</html>
